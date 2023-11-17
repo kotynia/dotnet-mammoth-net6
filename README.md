@@ -1,3 +1,7 @@
+##############################
+This is a port of Mammoth, originally developed for .NET Framework 4.X, to .NET 7.X +
+##############################
+
 # Mammoth .docx to HTML converter for .NET
 
 Mammoth is designed to convert .docx documents,
